@@ -7,4 +7,4 @@ Clase de componentes de React
     *   Sonido
     *   Video
 
-* Extra
+* Extra agrega bootstrap
