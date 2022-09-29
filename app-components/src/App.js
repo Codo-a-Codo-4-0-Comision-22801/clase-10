@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Saludo msg="Hola Mundo!" />
-      <Navbar src={image} />
+      <Navbar src={image} size={70}/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
